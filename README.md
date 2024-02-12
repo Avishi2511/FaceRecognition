@@ -1,1 +1,2 @@
-Face Recognition Model Using OpenCV
+#Face Recognition
+A face recognition model built using OpenCV
